@@ -233,7 +233,8 @@ public class Employee {
   - This makes navigation and maintenance **much easier** compared to raw Servlets and JSP.  
 
 
-# What is the difference between API and Framework? ## When should we go for Framework?  
+# What is the difference between API and Framework? 
+## When should we go for Framework?  
 
 - **API (Application Programming Interface)** contains abstract classes and interfaces.  
   - Concrete class is not there as part of APIs, so it is partial and not complete.  
