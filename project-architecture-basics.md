@@ -338,8 +338,6 @@ public class Employee {
 - **Higher quality code**: Half of the application is already tested and free of bugs.  
 - **Lower cost** and **faster development cycles**.
 
----
-
 ### Summary
 Frameworks like Spring simplify development by providing ready-to-use concrete classes, reducing complexity, saving time, lowering costs, and improving code quality. They enable developers to focus more on business logic rather than repetitive technical details.
 ```
